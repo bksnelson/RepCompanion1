@@ -41,7 +41,7 @@ Contact.propTypes = {
     owner: PropTypes.string,
     createdAt: PropTypes.instanceOf(Date),
     _id: PropTypes.string,
-})).isRequired,
+  })).isRequired,
 };
 
 export default Contact;
